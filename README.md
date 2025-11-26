@@ -2,3 +2,5 @@
 "Creating repository for git and github configuration first time practice"
 
 #editing in readme
+
+#agentic ai
